@@ -1,0 +1,21 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M00215,EVO/PRO - Interface Unit,1.00,,,True
+1,M00189,CNC Evo/Pro - Steel Parts - Interface Unit Base,1.00,M00215,EVO/PRO - Interface Unit,False
+1,M00190,CNC Evo/Pro - Steel Parts - Interface Unit Cover,1.00,M00215,EVO/PRO - Interface Unit,False
+1,M00011,"7"" LCD Touch Screen 1024x600 TFT",1.00,M00215,EVO/PRO - Interface Unit,False
+1,M00700,Numeric Keypad 34 Keys,1.00,M00215,EVO/PRO - Interface Unit,False
+1,M01715,ISO 7380 M3x4 Black Screw,8.00,M00215,EVO/PRO - Interface Unit,False
+1,M00842,Tooth Lock Washer DIN6798 M6 Type A Black,8.00,M00215,EVO/PRO - Interface Unit,False
+1,M01698,DIN912 M4x16 Black screw,2.00,M00215,EVO/PRO - Interface Unit,False
+1,M01704,DIN912 M6x16 Black screw,2.00,M00215,EVO/PRO - Interface Unit,False
+1,M00543,HDMI Cable Male/Male 1.5m,1.00,M00215,EVO/PRO - Interface Unit,False
+1,M00849,USB-A Micro USB Cable 1.5m,1.00,M00215,EVO/PRO - Interface Unit,False
+1,M01637,INT - Fixation Bag,1.00,M00215,EVO/PRO - Interface Unit,True
+2,M01636,Spacer M6x16,2.00,M01637,INT - Fixation Bag,False
+2,M01694,DIN9021 Washer M6x18,2.00,M01637,INT - Fixation Bag,False
+2,M00556,I-Type Sliding Nut M6,2.00,M01637,INT - Fixation Bag,False
+2,M01748,DIN912 M6x25 Black screw,2.00,M01637,INT - Fixation Bag,False
+1,M00716,"PMMA Sheet 3mm 600x400mm, Light Blue",1.00,M00215,EVO/PRO - Interface Unit,False
+1,M00461,"Disc Magnet Ø 10mm, height 3mm",3.00,M00215,EVO/PRO - Interface Unit,False
+1,M01675,DIN912 M4x25 Black screw,2.00,M00215,EVO/PRO - Interface Unit,False
+1,M01534,Male USB-A to Male USB-C Cable 150cm,1.00,M00215,EVO/PRO - Interface Unit,False

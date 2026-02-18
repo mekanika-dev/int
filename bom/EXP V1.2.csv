@@ -1,0 +1,20 @@
+level,component_reference,component_name,component_quantity,parent_bom_reference,parent_bom_name,has_child_bom
+0,M00507,Expandable Touch Interface,1.00,,,True
+1,M00665,Monitor arm,1.00,M00507,Expandable Touch Interface,False
+1,M00002,"13.3"" IPS Capacitive Touchscreen LCD",1.00,M00507,Expandable Touch Interface,False
+1,M00363,EXP - Steel Parts - Arm Support Plate,1.00,M00507,Expandable Touch Interface,False
+1,M00362,EXP - Steel Parts - Keypad support,1.00,M00507,Expandable Touch Interface,False
+1,M01259,EXP - Miscellaneous Components bag,1.00,M00507,Expandable Touch Interface,True
+2,M00640,USB A Male to A female Panel Mount 3m,1.00,M01259,EXP - Miscellaneous Components bag,False
+2,M00641,Male USB-A to Male Micro USB-B cable 3m,1.00,M01259,EXP - Miscellaneous Components bag,False
+2,M01534,Male USB-A to Male USB-C Cable 150cm,1.00,M01259,EXP - Miscellaneous Components bag,False
+2,M00508,EXP - Screws Bag,1.00,M01259,EXP - Miscellaneous Components bag,True
+3,M00951,ISO 7380 M5x12 Black Screw,2.00,M00508,EXP - Screws Bag,False
+3,M00632,Lock Nut DIN985 M5,2.00,M00508,EXP - Screws Bag,False
+3,M01704,DIN912 M6x16 Black screw,2.00,M00508,EXP - Screws Bag,False
+3,M00556,I-Type Sliding Nut M6,2.00,M00508,EXP - Screws Bag,False
+3,M01695,DIN912 M10x30 Black screw,1.00,M00508,EXP - Screws Bag,False
+3,M01693,ISO 7380 M3x10 Black Screw,2.00,M00508,EXP - Screws Bag,False
+3,M00023,Allen Key 2mm,1.00,M00508,EXP - Screws Bag,False
+2,M00639,Male HDMI to Male HDMI cable 3m,1.00,M01259,EXP - Miscellaneous Components bag,False
+1,M00700,Numeric Keypad 34 Keys,1.00,M00507,Expandable Touch Interface,False
