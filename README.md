@@ -20,6 +20,11 @@ All 3D assembly files are made in STEP format and compatible with many CAD softw
 
 The assembly guide is available on our [support website](https://support.mekanika.io/products/expandable-touch-interface). If you have feedback or want to raise an issue about a specific assembly step, you can use the feedback buttons available on each step's page.
 
+The design files can also be viewed in web browsers using these links:
+
+- [Default Interface Unit](https://a360.co/45eMyPy)
+- [Expandable Interface Unit](https://a360.co/3GZm7oW)
+
 ## Community
 
 Mekanika encourages collaborative design and innovation. We welcome:
