@@ -1,7 +1,7 @@
 # Touch Interfaces (Classic & Expandable)
 
-- [Assembly Guide & Documentation](https://support.mekanika.io/products/expandable-touch-interface)
-- [Shop](https://www.mekanika.io/en/store/be/exp/)
+- [Assembly Guide & Documentation](https://support.mekanika.io/products/touch-interface)
+- [Shop](https://www.mekanika.io/en/store/be/interface-unit)
 - [Contact](https://www.mekanika.io/contact-us/)
 
 ![Expandable Interface Unit](https://www.mekanika.io/_next/image?url=https%3A%2F%2Fs3storage-medusa.ams3.digitaloceanspaces.com%2FControl%20Interface%20-%20Studio%20-%20product%20image-01JKTT1XCG61YNTEM00ACJ7JB0.jpg&w=1080&q=90)
@@ -22,7 +22,7 @@ The assembly guide is available on our [support website](https://support.mekanik
 
 The design files can also be viewed in web browsers using these links:
 
-- [Default Interface Unit](https://a360.co/45eMyPy)
+- [Default Interface Unit](https://a360.co/4ovs5iu)
 - [Expandable Interface Unit](https://a360.co/3GZm7oW)
 
 ## Community
