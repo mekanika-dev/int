@@ -1,4 +1,4 @@
-# Touch Interfaces (Classic & Expandable)
+# Touch Interfaces (Standard & Expandable)
 
 - [Assembly Guide & Documentation](https://support.mekanika.io/products/touch-interface)
 - [Shop](https://www.mekanika.io/en/store/be/interface-unit)
@@ -22,8 +22,8 @@ The assembly guide is available on our [support website](https://support.mekanik
 
 The design files can also be viewed in web browsers using these links:
 
-- [Default Interface Unit](https://a360.co/4ovs5iu)
-- [Expandable Interface Unit](https://a360.co/3GZm7oW)
+- [Standard 7"](https://a360.co/4ovs5iu)
+- [Expandable 13"](https://a360.co/3GZm7oW)
 
 ## Community
 
